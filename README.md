@@ -1,6 +1,8 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# Virtual patient simulator for skill training in dentistry
 ___
+
+
 
 ## Please refer the instructions in below URL:
 
