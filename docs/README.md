@@ -13,9 +13,9 @@ title: Virtual Patient Simulator for Skill Training in Dentistry
 
 #### Team
 
-- E/16/086, Virajani Dharmathilaka, [email](mailto:e16086@eng.pdn.ac.lk)
-- E/16/156, Tharushini Jayathilaka, [email](mailto:e16156@eng.pdn.ac.lk)
-- E/16/223, Chanika Madushanki, [email](mailto:e16223@eng.pdn.ac.lk)
+- E/16/086, Dharmathilaka A.L.V.H., [email](mailto:e16086@eng.pdn.ac.lk)
+- E/16/156, Jaythilaka H.A.D.T.T., [email](mailto:e16156@eng.pdn.ac.lk)
+- E/16/223, Madushanki K.H.H.C., [email](mailto:e16223@eng.pdn.ac.lk)
 
 #### Supervisors
 
