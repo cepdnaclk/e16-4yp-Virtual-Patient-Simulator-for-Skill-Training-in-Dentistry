@@ -3,24 +3,25 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e16-4yp-Virtual-patient-simulator-for-skill-training-in-dentistry
+title: Virtual Patient Simulator for Skill Training in Dentistry
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Virtual Patient Simulator for Skill Training in Dentistry
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/16/086, Virajani Dharmathilaka, [email](mailto:e16086@eng.pdn.ac.lk)
+- E/16/156, Tharushini Jayathilaka, [email](mailto:e16156@eng.pdn.ac.lk)
+- E/16/223, Chanika Madushanki, [email](mailto:e16223@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Prof. Roshan G. Ragel, [email](mailto:roshanr@eng.pdn.ac.lk)
+- Dr. Upul Jayasinghe , [email](mailto:upuljm@eng.pdn.ac.lk)
+- Dr. D Leuke Bandara , [email](mailto:dhanulb@dental.pdn.ac.lk)
 
 #### Table of content
 
@@ -34,11 +35,6 @@ title:
 8. [Links](#links)
 
 ---
-
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png)
-
 
 ## Abstract
 
