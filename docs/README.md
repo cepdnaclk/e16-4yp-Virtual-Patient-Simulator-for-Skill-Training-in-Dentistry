@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e16-4yp-Virtual-patient-simulator-for-skill-training-in-dentistry
+repository-name: e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry
 title: Virtual Patient Simulator for Skill Training in Dentistry
 ---
 
@@ -62,8 +62,8 @@ title: Virtual Patient Simulator for Skill Training in Dentistry
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry)
+- [Project Page](https://cepdnaclk.github.io/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
