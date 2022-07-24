@@ -1,30 +1,34 @@
 {
     "team": [
-        {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+       {
+            "name": "Dharmathilaka A.L.V.H.",
+            "email": "e16086@eng.pdn.ac.lk",
+            "eNumber": "E/16/086"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Jaythilaka H.A.D.T.T.",
+            "email": "e16156@eng.pdn.ac.lk",
+            "eNumber": "E/16/156"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Madushanki K.H.H.C.",
+            "email": "e16223eng.pdn.ac.lk",
+            "eNumber": "E/16/223"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Prof. Roshan G. Ragel",
+            "email": "roshanr@eng.pdn.ac.lk"
         },
         {
-            "name": "Dr. Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
-        }
+            "name": "Dr. Upul Jayasinghe ",
+            "email": "upuljm@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Dr. D Leuke Bandara ",
+            "email": "dhanulb@dental.pdn.ac.lk"
+        }}
     ],
     "media": [
         {
