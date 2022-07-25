@@ -37,6 +37,7 @@ title: Virtual Patient Simulator for Skill Training in Dentistry
 ---
 
 ## Abstract
+Developing a Virtual Patient Simulator for Skill Training in Dentistry
 
 ## Related works
 
