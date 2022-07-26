@@ -40,6 +40,28 @@ title: Virtual Patient Simulator for Skill Training in Dentistry
 Explore the potential of integrating Virtual Reality (VR) and Artificial Intelligence (AI) techniques to increase the effectiveness of skill training in dentistry by providing personalised instruction, assessment and formative feedback in a form and on a scale not possible in the physical world. The systems being built promise to provide dental students with an increased amount of guided practice at a relatively low cost.
 
 ## Related works
+1. **The system (Web-SP)**
+
+Web-SP (Web-based Simulation of Patients) is a general virtual patient (VP) simulation system developed at Karolinska Institutet, Sweden (14, 18).
+Twenty-four VPs were created by the senior course director using the Web-SP built-in web-based authoring environment.
+
+Web-SP is divided into the following sections:
+- patient introduction
+- patient interview
+- physical examination
+- labs/X-rays
+- diagnosis
+- therapy
+- feedback
+- 
+There are two types of feedback available to students in WebSP:
+- constructive
+
+Constructive feedback is an automatically generated checklist that matches and compares student recommendations to expert recommendations. Constructive feedback is provided for students’ activities in the explorative phase of the case review and for parts of students’ periodontal, caries registration, endodontic diagnostic activity.
+
+- neutral
+
+Neutral feedback is an automatically generated display of expert opinion and recommendations but does not provide any comparison between students and experts.
 
 ## Methodology
 
