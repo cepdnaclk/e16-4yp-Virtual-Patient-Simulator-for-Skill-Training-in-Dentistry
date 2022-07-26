@@ -97,6 +97,38 @@ Interact with the patient.
   - Holodeck tool in secondlife: allows you to rez a large variety of rooms or scenarios in limited space
 
 
+### 3.  **Virtual Patient Collection**
+
+Coding framework with four main categories:
+- patient data
+- patient representation
+- diagnoses
+- setting
+
+Analyzed 66 VP and compared the results with data from the existing healthcare system
+
+match curricular objectives of common symptoms, train clinical reasoning skills, and complement the face-to-face courses. 
+
+### 4.  **COMET**
+
+- Collaborative intelligent tutoring system
+- Multi-modal interface that integrates text and graphics 
+- Generate tutorial hints to guide group problem
+- Shared workspace (sketches and medical images)
+- Students from diverse locations can participate
+
+ Four primary components
+ 
+ 1. Student multimodal interface
+     - hypothesis board.
+     - chat pane 
+     - image pane
+
+ 2. Medical concept repository
+ 3. Student clinical reasoning model
+ 4. Tutoring module.
+
+
 ## Methodology
 
 ## Experiment Setup and Implementation
