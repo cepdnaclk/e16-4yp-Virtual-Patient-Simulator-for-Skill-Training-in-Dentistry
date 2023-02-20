@@ -142,6 +142,28 @@ At the beginning of the interaction with Julia, she introduces herself and the d
 A Web-based IPS called ALICE enables students to move around a virtual environment in first-person view, much as in a video game. Also, ALICE is cost-free, accessible
 to all interested teachers, and has a high rate of student acceptance. For the uniqueness of the system, a teaching module that replicates patients with complex oncological diseases was built. This provides the chance for students to use their newly acquired knowledge on virtual patients as well as to acquire knowledge.
 
+#### 8.  **Virtual haptic-based simulators**
+
+When considering virtual simulators in dentistry, several studies have considered implementing haptic-based virtual simulators. Although having good visual aids including 3D images provides an improved understanding of the students, still there is an imperfection without the tactile sensations. By using textual or verbal descriptions, tutors may not be able to provide accurate tactile sensations to the students. As a result, haptic-based simulators have been introduced as a solution. This will present a better measurement of the students’ performance while giving experiences very similar to real situations. Mainly these systems target practising clinical skills of the students. According to studies, they are cost-effective, require less maintenance, and do not require to replace the haptic devices frequently.
+
+##### 1.  **DentSim**
+
+One of the haptic-based simulators is the DentSim system. It is a computer-assisted dental simulator that provides simultaneous visual, audio and practical inputs for learning. As a haptic device, it contains a handpiece and a phantom head with an optical tracking camera. The motions made in the phantom head will send to the computer display. This helps to evaluate the student’s progress in the actual tooth preparation such as handpiece positioning, depth, wall an-
+gle, retention, etc. Feedback from the system is displayed on the screen. This simulator makes intra-oral activities effective. Further, it reduces the time and cost needed in conventional clinical training.
+
+##### 2.  **MOOG Simodont Dental Trainer**
+
+The primary difference between MOOG Simodont Dental Trainer and the DentSim is that MOOG Simodont Dental Trainer does not contain a physical phantom head. It contains a display projecting the mouth and tooth of the VP as a stereo image on a mirror. The mirror is above the headpiece. The system provides tactile feedback to the student by vibrating or generating a counterforce to the student’s movement. Like in real scenarios, the student can apply a physical drill handle by wearing stereoscopic glasses, and spatial illusions. Also, the drill handle can generate haptic feedback depending on the virtually prepared material. (e.g., enamel, dentin, or pul) . So by different techniques, the system tries to give tactile feedback as much as possible.
+
+##### 3.  **PerioSim haptics**
+
+Another system is PerioSim haptics. The specialty is that it can be done in periodontal procedures. The system contains a high-performance PC, graphic card, and stereo glasses for 3D visualization. It mainly focuses on developing the ability to examine the subgingival surface, handle gingival tissues, or perform scaling and root planing. For that, 3D visualization of the human mouth is displayed on the screen.
+
+#### 9.  **Virtual reality training simulator in tooth preparation practice**
+
+Virtual reality training simulator (VRTS) in tooth preparation practice is a haptic-based system that is developed with Unity 3D in conjunction with an HTC Vive Pro VR
+headset and a haptic controller. It is used for training the tooth preparation procedures. Mainly the system uses 3D medical images. The images such as oral scan, computer tomography(CT) are transfered to 3D images. Also maxillofacial and standard oral 3D models are implemented within the system.
+
 ## Methodology
 
 ## Experiment Setup and Implementation
