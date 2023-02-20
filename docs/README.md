@@ -234,10 +234,10 @@ Virtual patient systems for dentistry are virtual learning platforms that replic
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
-<!-- 1. [Semester 7 report](./) -->
-<!-- 2. [Semester 7 slides](./) -->
-<!-- 3. [Semester 8 report](./) -->
-<!-- 4. [Semester 8 slides](./) -->
+ 1. [Semester 7 report](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/Publications/review_final_group_16.pdf)
+ 2. [Semester 7 slides](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/Publications/End_presentation_semester7.pptx)
+ 3. [Semester 8 report](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/Publications/Method_Research_Article.pdf)
+ 4. [Semester 8 slides](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/Publications/Final%20Presentation%20January%202023.pptx)
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
