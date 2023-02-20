@@ -146,16 +146,16 @@ to all interested teachers, and has a high rate of student acceptance. For the u
 
 When considering virtual simulators in dentistry, several studies have considered implementing haptic-based virtual simulators. Although having good visual aids including 3D images provides an improved understanding of the students, still there is an imperfection without the tactile sensations. By using textual or verbal descriptions, tutors may not be able to provide accurate tactile sensations to the students. As a result, haptic-based simulators have been introduced as a solution. This will present a better measurement of the students’ performance while giving experiences very similar to real situations. Mainly these systems target practising clinical skills of the students. According to studies, they are cost-effective, require less maintenance, and do not require to replace the haptic devices frequently.
 
-##### 1.  DentSim
+##### 1.  **DentSim**
 
 One of the haptic-based simulators is the DentSim system. It is a computer-assisted dental simulator that provides simultaneous visual, audio and practical inputs for learning. As a haptic device, it contains a handpiece and a phantom head with an optical tracking camera. The motions made in the phantom head will send to the computer display. This helps to evaluate the student’s progress in the actual tooth preparation such as handpiece positioning, depth, wall an-
 gle, retention, etc. Feedback from the system is displayed on the screen. This simulator makes intra-oral activities effective. Further, it reduces the time and cost needed in conventional clinical training.
 
-##### 2.  MOOG Simodont Dental Trainer
+##### 2.  **MOOG Simodont Dental Trainer**
 
 The primary difference between MOOG Simodont Dental Trainer and the DentSim is that MOOG Simodont Dental Trainer does not contain a physical phantom head. It contains a display projecting the mouth and tooth of the VP as a stereo image on a mirror. The mirror is above the headpiece. The system provides tactile feedback to the student by vibrating or generating a counterforce to the student’s movement. Like in real scenarios, the student can apply a physical drill handle by wearing stereoscopic glasses, and spatial illusions. Also, the drill handle can generate haptic feedback depending on the virtually prepared material. (e.g., enamel, dentin, or pul) . So by different techniques, the system tries to give tactile feedback as much as possible.
 
-##### 3.  PerioSim haptics
+##### 3.  **PerioSim haptics**
 
 Another system is PerioSim haptics. The specialty is that it can be done in periodontal procedures. The system contains a high-performance PC, graphic card, and stereo glasses for 3D visualization. It mainly focuses on developing the ability to examine the subgingival surface, handle gingival tissues, or perform scaling and root planing. For that, 3D visualization of the human mouth is displayed on the screen.
 
@@ -168,33 +168,33 @@ headset and a haptic controller. It is used for training the tooth preparation p
 
 The virtual patient web interface was designed including the main three phases of patient assessment in dentistry (History taking, Examination and Investigation, Diagnosis), so that it equals a main theoretical topic of the practical skills training in terms of content and learning objectives. Two completed VP cases were created following the above phases in order according to the design principles for VP cases. The figure shows the architecture of the designed system.
 
-![system_architecture](./images/system_architceture.png)
+![system architecture](./images/system_architceture.png)
 
 After a successful login, a student is given the chance for the case selection from the given cases. Here each VP scenario presented an authentic web interface and included the questions and clarifications customized to the process of clinical reasoning. In addition, each case contained a 3D graphic of the intraoral view representing the defects providing the zoom in zoom out and 360 degree rotation. Furthermore, they consisted of numerous elements including drop-down-menus, multiple choice selections, text boxes etc  helping to create an efficient learning environment including multimedia. The construction of the cases followed a linear and non-dichotomous approach, but  the students could freely navigate back to previous case slides to look up relevant findings within the cases. In order to compensate for the absence of in-person guidance from a supervised physician at the clinic, the diagnostics and treatment options were provided in additional text-boxes (glossary), and multiple-choice questions were used. Correct answers were rewarded with positive marks while wrong answers led to negative marks followed by constructive feedback and detailed explanations regarding the various choices.
 
 
-##### 1. **History Taking**
+#### 1. **History Taking**
 
 This phase mainly includes obtaining the patient’s history by allowing the students to ask questions from the VP regarding the selected case. A student was provided with a list of sections as History of the presenting complaint, Medical history, Habits, Plaque control, Dietary history, Previous dental treatments and Social history. A drop-down menu and once a section was selected the relevant questions were displayed on another drop-down menu. Once a question was chosen, the VP displayed the answers following the selected question. 
 
 Here the marks were allocated for choosing the correct order of selecting the sections to ask the questions from the patient. The wrong orders were given negative marks. In addition, the questions in each section included both relevant and irrelevant questions to the selected case and selecting only the relevant questions were given positive marks while the choosing of irrelevant questions carried negative marks.
 
-##### 2. Examination
+#### 2. **Examination**
 
 Examination phase allowed the students to examine the patient using the intra oral view, extra oral view. The extra oral section described the physical appearance while the intra oral section consisted with the Intra Oral view, Periodic Screening, Soft Tissue Assessment, Hard Tissue Assessment and Gingival Assessment. The intraoral view was provided as a 3D model representing the defects of the teeth of the patient providing the zoom in zoom out and 360 degree rotation features so that the student can examine the tooth in a preferred scale and angles.
 
-#### 2.1 3D modeling
+##### 2.1 3D modeling
 3D modeling implementation for the intra oral view representation was first considered using game engines and the research was done to identify the most suitable approach for the web interface.
 The 3D model was created using Blender with all the relevant features which should be included in a teeth set of different kinds of teeth, gum, tongue etc. According to a case restorations, cavities and discolorations were created in the 3d model using Blender features. A mirror tool was also created using Blender which is needed to get a better view of the front teeth set. 
 Other than that, Unity was used for further implementation of the 3D model. Implementation of zoom in and zoom out features were done using Unity. But due to few resolution issues,  further implementation of the 3d model was carried away using Blender.  However for the zoom in and out feature implementations, React three.js library was also used.
 
 The evaluations in the examination phase were done in Soft Tissue Assessment and Hard Tissue Assessment according to the answers provided by the student in the relevant assessment regarding the patient examination. The questions included tool selections, caries status and restorations status and plaque scores and bleeding scores calculation using the given charts.
 
-##### 3. Investigation
+#### 3. **Investigation**
 
 This phase provided the students with various types of sources to investigate the patient. They included Radiograph, Haematological assessments and Sensibility recordings. Here the radiographs contained the types of Dental Panoramic Tomogram (DPT), intraoral periapical(IOPA), Bitewing and Cone-beam computed tomography (CBCT). Students could choose any given category and do their investigations accordingly.
 
-##### 4. Evaluation and Feedback
+#### 4. **Evaluation and Feedback**
 
 Evaluation of the student was carried out using the criteria of Students’ individual behavior. The system evaluates the ability to choose adequate history questions, examination behavior including tools selection, identifying caries status and restorations status and calculating plaque scores and bleeding scores,  investigation method selection and Providing the correct answers for the questionnaire for diagnosis. In the investigation phase,  the student has to choose the correct lab tests and types of radiographs. Incorrect selections lead to negative marks This gives a sense of a real scenario since in a real scenario, students should not take unwanted investigation methods.  Other than that, weight-based marking criteria were also used in the evaluation.
 
@@ -202,7 +202,7 @@ This system contains a real-time feedback system. It gives detailed feedback on 
  
 
 	
-Testing evaluation with students
+##### Testing evaluation with students
 Thirty three third year dentistry  students in a four-year program were assigned randomly in a VP (18) and a Small Group Teaching (SGT)  group (15) which was regarded as a control group. The study was conducted on a voluntary basis, and a written informed consent was obtained prior to the participation with the right to withdraw at any time. Throughout the instructional approaches, the students were unaware of their study group affiliation. Basic information as age, sex and study duration were gathered via a questionnaire. Below figure shows the study design for the feedback evaluation. 
 
 
@@ -237,10 +237,10 @@ Virtual patient systems for dentistry are virtual learning platforms that replic
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
-1. [Semester 7 report](./Publications/review_final_group_16.pdf)
-2. [Semester 7 slides](./Publications/End_presentation_semester7.pptx)
-3. [Semester 8 report](./Publications/Method_Research_Article.pdf)
-4. [Semester 8 slides](./Publications/Final_Presentation_January_2023.pptx) 
+<!-- 1. [Semester 7 report](./) -->
+<!-- 2. [Semester 7 slides](./) -->
+<!-- 3. [Semester 8 report](./) -->
+<!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
