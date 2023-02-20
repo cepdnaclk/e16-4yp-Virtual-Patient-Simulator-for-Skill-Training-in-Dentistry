@@ -187,8 +187,7 @@ Examination phase allowed the students to examine the patient using the intra or
 
 ##### 2.1 3D modeling
 3D modeling implementation for the intra oral view representation was first considered using game engines and the research was done to identify the most suitable approach for the web interface.
-The 3D model was created using Blender with all the relevant features which should be included in a teeth set of different kinds of teeth, gum, tongue etc. According to a case restorations, cavities and discolorations were created in the 3d model using Blender features. A mirror tool was also created using Blender which is needed to get a better view of the front teeth set. 
-Other than that, Unity was used for further implementation of the 3D model. Implementation of zoom in and zoom out features were done using Unity. But due to few resolution issues,  further implementation of the 3d model was carried away using Blender.  However for the zoom in and out feature implementations, React three.js library was also used.
+The 3D model was created with all the relevant features which should be included in a teeth set of different kinds of teeth, gum, tongue etc. According to a case restorations, cavities and discolorations were created in each model. A mirror tool was also created using Blender which is needed to get a better view of the front teeth set. In addition, implementation of zoom in and zoom out features were done in order to help the students to examine properly. 
 
 The evaluations in the examination phase were done in Soft Tissue Assessment and Hard Tissue Assessment according to the answers provided by the student in the relevant assessment regarding the patient examination. The questions included tool selections, caries status and restorations status and plaque scores and bleeding scores calculation using the given charts.
 
