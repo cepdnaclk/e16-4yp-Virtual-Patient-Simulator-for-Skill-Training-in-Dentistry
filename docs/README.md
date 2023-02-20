@@ -141,7 +141,7 @@ match curricular objectives of common symptoms, train clinical reasoning skills,
 Thirty three third year dentistry  students in a four-year program were assigned randomly in a Virtual Patient (VP) (18) and a Small Group Teaching (SGT)  group (15) which was regarded as a control group. The study was conducted on a voluntary basis, and a written informed consent was obtained prior to the participation with the right to withdraw at any time. Throughout the instructional approaches, the students were unaware of their study group affiliation. Following figure shows the study design for the feedback evaluation.
 
 
-![Experiment Setup and Implementation](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/Study_design_and_feedback.png)
+![Experiment Setup and Implementation](./images/Study_design_and_feedback.png)
 
 ## Results and Analysis
 
