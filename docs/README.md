@@ -107,23 +107,11 @@ Interact with the patient.
 
 #### 3.  **Virtual Patient Collection**
 
-Coding framework with four main categories:
-- patient data
-- patient representation
-- diagnoses
-- setting
-
-Analyzed 66 VP and compared the results with data from the existing healthcare system
-
-match curricular objectives of common symptoms, train clinical reasoning skills, and complement the face-to-face courses. 
+A Virtual Patient Collection can also be identified as another approach that uses a collection of 66 VP s instead of a single one. So the system tries to give experience to a variety of patients considering factors including age, gender, occupation, etc. Here the coding framework has been divided into four main categories as patient data, patient representation, diagnoses, and setting. After analyzing the VPs the results were compared with data from the existing healthcare system. This was support to match curricular objectives of common symptoms, train clinical reasoning skills, and to complement the face-to-face courses.
 
 #### 4.  **COMET**
 
-- Collaborative intelligent tutoring system
-- Multi-modal interface that integrates text and graphics 
-- Generate tutorial hints to guide group problem
-- Shared workspace (sketches and medical images)
-- Students from diverse locations can participate
+COMET is a combination of Intelligent Tutoring System (ITS) and computer-supported collaborative learning (CSCL). It is specifically developed for medical PBL where the system is designed for students to participate in skill training sessions remotely. COMET tries to make the students’ experience similar to human-tutored medical PBL sessions. When looking into the software architecture of the system, it is implemented as a Java client/server application. So that the students can access it via the internet or from a local area network. In addition, they can work as a group or any number of students can join the same session. To support students in collaborative learning and to build an effective communication channel between students, the system also contains different components.
 
  Four primary components
  
@@ -136,6 +124,12 @@ match curricular objectives of common symptoms, train clinical reasoning skills,
  3. Student clinical reasoning model
  4. Tutoring module.
 
+#### 5.  **Virtual Learning Environment (VLE)**
+
+The VLE is specially designed for diagnosis and treatment planning in dentistry. It is a web-based database application. The application is divided into five different
+sections. They are history taking, clinical examination, X-rays( Radiographs), diagnosis and feedback on the usage. 
+
+In history taking, initially, the system gives a brief introduction in one sentence. The student can ask questions freely. Then in the clinical examination part students can ask for clinical images such as intraoral clinical images or a clinical examination such as bleeding on probing. The system provides figures, tables, and multimedia information like sounds, and video clips. Also, the system provides X-rays(Radiographs). The highlighted characteristic is the system provides a full-mouth radiographic chart including both bitewings and periapical X-rays. It lets students select and enlarge the space. After that, diagnosis, treatment planning, and prognosis can be done by the student as a free text. Finally, evaluation is done and the system gives feedback to the student. Moreover, student activities within the session are recorded.
 
 ## Methodology
 
