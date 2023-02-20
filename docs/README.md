@@ -145,17 +145,15 @@ Thirty three third year dentistry  students in a four-year program were assigned
 
 ## Results and Analysis
 
-### Study participation
+#### Study participation
 Prior to the test, a questionnaire was given to get the user characteristics of the students and do a self-assessment. The first aim was to identify each student separately. For that students were assigned random codes. All the students were in the same semester. It was semester 6. Using students from the same semester helped to avoid the bias that may happen due to the technical knowledge difference in a clinical case during the experiment. For the experiment, 21 Female students and 14 Male students participated. Due to technical issues, 2 students’ records can not be used for future investigation. So the usable sample count is 33. None of the students had good exposure to these types of virtual patient systems. The average history-taking rate is 3.486. The average rate of confidence in patient assessment according to the patient’s presentation is 3.429.
 
-### Outcome measures
+#### Outcome measures
 The Objective Structured Clinical Examination (OSCE) is a widely used assessment method in the field of dentistry. Two OSCE exams were held before and after the experiment. The exam was graded from 1 to 100. Then the mean values, standard deviations and p-values were calculated. The table 1 shows the values obtained. In the case initial we decide our null hypothesis as our VP can perform well as the traditional clinical procedure. To prove that it can not be neglected, the p-values were calculated and it is in table 2. According to these statistical values, both the control group and the VP group have performed in a similar manner. Their mean and standard deviation values do not have any significant difference in both pre and post-OSCE. Moreover, p-values are greater than 0.5. This means that the initial hypothesis, that the VP system can perform well as the traditional clinical procedure is not neglectable.
 
-<p align="center">
-  <img src="https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/grade_result_tables.png" width="500" alt="accessibility text">
-</p>
+![outcome](https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/grade_result_tables.png)
 
-### Students feedback review
+#### Students feedback review
 
 After the test, two questionnaires were given to get user feedback about the system and user feedback about the overall experience.After the test, these questionnaires were only given to the students who interacted with the Virtual Patient Simulator.
  
