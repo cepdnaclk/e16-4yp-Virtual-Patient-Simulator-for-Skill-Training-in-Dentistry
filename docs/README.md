@@ -50,6 +50,7 @@ Haptic-based simulators provide a realistic sense of touch and force feedback, a
 Web-SP (Web-based Simulation of Patients) is a general virtual patient (VP) simulation system developed at Karolinska Institutet, Sweden (14, 18).
 Twenty-four VPs were created by the senior course director using the Web-SP built-in web-based authoring environment.
 
+
 Web-SP is divided into the following sections:
 - patient introduction
 - patient interview
@@ -69,6 +70,8 @@ Constructive feedback is an automatically generated checklist that matches and c
 Neutral feedback is an automatically generated display of expert opinion and recommendations but does not provide any comparison between students and experts.
 
 #### 2.  **Virtual World Problem**
+
+Virtual world is a system [11] which mainly has addressed two research questions. One is whether the 3D environment provides greater interaction to the student than image and test-based PBL patient cases while the other one is whether the same virtual patient case handling is done by several groups individually and simultaneously.
 
 ##### Features
 - Student is virtually present as avtar.
