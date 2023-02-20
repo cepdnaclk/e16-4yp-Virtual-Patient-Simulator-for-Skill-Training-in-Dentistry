@@ -240,7 +240,7 @@ Virtual patient systems for dentistry are virtual learning platforms that replic
 1. [Semester 7 report](./Publications/review_final_group_16.pdf)
 2. [Semester 7 slides](./Publications/End_presentation_semester7.pptx)
 3. [Semester 8 report](./Publications/Method_Research_Article.pdf)
-4. [Semester 8 slides](./Publications/Final Presentation January 2023.pptx) 
+4. [Semester 8 slides](./Publications/Final_Presentation_January_2023.pptx) 
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
 
