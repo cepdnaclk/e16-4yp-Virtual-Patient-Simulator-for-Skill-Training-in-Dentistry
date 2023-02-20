@@ -40,7 +40,12 @@ title: Virtual Patient Simulator for Skill Training in Dentistry
 Explore the potential of integrating Virtual Reality (VR) and Artificial Intelligence (AI) techniques to increase the effectiveness of skill training in dentistry by providing personalised instruction, assessment and formative feedback in a form and on a scale not possible in the physical world. The systems being built promise to provide dental students with an increased amount of guided practice at a relatively low cost.
 
 ## Related works
-### 1. **The system (Web-SP)**
+
+Haptic-based simulators and non-haptic based simulators are both used in dentistry for skill training and development.
+
+Haptic-based simulators provide a realistic sense of touch and force feedback, allowing students to practice procedures with a level of tactile sensation similar to that experienced during actual dental procedures. On the other hand, non-haptic-based simulators typically use computer graphics and animation to simulate dental procedures. These simulators offer a lower level of realism in terms of tactile sensation and force feedback, but they can still provide valuable training for students in a safe and controlled environment. Non-haptic simulators are typically less expensive than haptic-based simulators, making them more accessible for educational institutions with limited budgets. Few Example systems are described below.
+
+#### 1. **The system (Web-SP)**
 
 Web-SP (Web-based Simulation of Patients) is a general virtual patient (VP) simulation system developed at Karolinska Institutet, Sweden (14, 18).
 Twenty-four VPs were created by the senior course director using the Web-SP built-in web-based authoring environment.
@@ -63,9 +68,9 @@ Constructive feedback is an automatically generated checklist that matches and c
 
 Neutral feedback is an automatically generated display of expert opinion and recommendations but does not provide any comparison between students and experts.
 
-### 2.  **Virtual World Problem**
+#### 2.  **Virtual World Problem**
 
-#### Features
+##### Features
 - Student is virtually present as avtar.
 - Clinical room is virtually made with virtual patient.
 - Concurrent group practicals can be held.
@@ -73,31 +78,31 @@ Neutral feedback is an automatically generated display of expert opinion and rec
 - Selection menus when using the equipment.
 - Tutor with a case-specific guide.
 
-#### Feedbacks
+##### Feedbacks
 
 - Equipment usage : For selected item, give drop down list choose the action and done that by simulator. Then display the result.
 Interact with the patient.
 - Typed questions can be asked from the patient and system will reply in the chat.
 
-#### Technologies
+##### Technologies
 
-##### Second Life (SL) (20) by Linden Labs
+###### Second Life (SL) (20) by Linden Labs
 - Second Life is an online multimedia platform that allows people to create an avatar for themselves and have a second life in an online virtual world.
 - The platform principally features 3D-based user-generated content.
 - A range of easy-to-use construction tools and a scripting language are provided by the publicly available software for the creation and editing of content in an environment
      
-##### Chatbot
+###### Chatbot
 
 - For virtual patients,  through typed chat using “chatbot” functionality, “touchpoints” to initiate examinations, and equipment within the environment.
       
-##### Holodeck tool
+###### Holodeck tool
 
 - For concurrent paracticals:
   - allowed to build both scenarios once only but replicate this in multiple locations
   - Holodeck tool in secondlife: allows you to rez a large variety of rooms or scenarios in limited space
 
 
-### 3.  **Virtual Patient Collection**
+#### 3.  **Virtual Patient Collection**
 
 Coding framework with four main categories:
 - patient data
@@ -109,7 +114,7 @@ Analyzed 66 VP and compared the results with data from the existing healthcare s
 
 match curricular objectives of common symptoms, train clinical reasoning skills, and complement the face-to-face courses. 
 
-### 4.  **COMET**
+#### 4.  **COMET**
 
 - Collaborative intelligent tutoring system
 - Multi-modal interface that integrates text and graphics 
@@ -135,7 +140,12 @@ match curricular objectives of common symptoms, train clinical reasoning skills,
 
 ## Results and Analysis
 
+###study participation
+Prior to the test, a questionnaire was given to get the user characteristics of the students and do a self-assessment. The first aim was to identify each student separately. For that students were assigned random codes. All the students were in the same semester. It was semester 6. Using students from the same semester helped to avoid the bias that may happen due to the technical knowledge difference in a clinical case during the experiment. For the experiment, 21 Female students and 14 Male students participated. Due to technical issues, 2 students’ records can not be used for future investigation. So the usable sample count is 33. None of the students had good exposure to these types of virtual patient systems. The average history-taking rate is 3.486. The average rate of confidence in patient assessment according to the patient’s presentation is 3.429.
+
 ## Conclusion
+Virtual patient systems for dentistry are virtual learning platforms that replicate various aspects of real-world dental practice. These systems can be used to train dental students, assess the competency of dental professionals, and provide patients with a realistic preview of dental procedures. This study shows how successful the development of our virtual patient simulator. The system evaluation was done in a controlled environment.
+
 
 ## Publications
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
