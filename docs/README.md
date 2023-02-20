@@ -131,6 +131,17 @@ sections. They are history taking, clinical examination, X-rays( Radiographs), d
 
 In history taking, initially, the system gives a brief introduction in one sentence. The student can ask questions freely. Then in the clinical examination part students can ask for clinical images such as intraoral clinical images or a clinical examination such as bleeding on probing. The system provides figures, tables, and multimedia information like sounds, and video clips. Also, the system provides X-rays(Radiographs). The highlighted characteristic is the system provides a full-mouth radiographic chart including both bitewings and periapical X-rays. It lets students select and enlarge the space. After that, diagnosis, treatment planning, and prognosis can be done by the student as a free text. Finally, evaluation is done and the system gives feedback to the student. Moreover, student activities within the session are recorded.
 
+#### 6.  **Virtual Patient via an Artificial Intelligence Chatbot**
+
+This is an approach which has used integrated VPs with AI. A VP, named ‘Julia’ has been implemented with a conversational chatbot with AI. Five different categories have been identified to answer questions by the VP as Anamnes, Description of the pain, Relationship of the pain with stimuli, Previous dental treatments and Intraoral exploration. The system has the ability to identify different ways of asking the same question using natural language processing algorithms. Also, formal language has been used so that it has the ability to answer some questions that were even unrelated to the clinical case. In order for Julia to generate curiosity among the students and given the possibility that some questions were not focused on the clinical case, In addition, it also has the capability to understand the nuances of human language by learning through action and feedback.
+
+At the beginning of the interaction with Julia, she introduces herself and the directions for the student will be given about the process. Julia is able to answer different questions about the current condition. Colloquial responses to intimate questions that were unrelated to the case were established in order to arouse students’ curiosity and redirect them. In case of reaching an incorrect diagnosis, Julia redirects the student.
+
+#### 7.  **ALICE(Artificial Interface for Clinical Education)**
+
+A Web-based IPS called ALICE enables students to move around a virtual environment in first-person view, much as in a video game. Also, ALICE is cost-free, accessible
+to all interested teachers, and has a high rate of student acceptance. For the uniqueness of the system, a teaching module that replicates patients with complex oncological diseases was built. This provides the chance for students to use their newly acquired knowledge on virtual patients as well as to acquire knowledge.
+
 ## Methodology
 
 ## Experiment Setup and Implementation
