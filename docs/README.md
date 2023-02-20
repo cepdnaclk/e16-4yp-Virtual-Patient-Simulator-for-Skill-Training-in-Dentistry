@@ -140,15 +140,28 @@ match curricular objectives of common symptoms, train clinical reasoning skills,
 
 ## Results and Analysis
 
-### study participation
+Thirty three third year dentistry  students in a four-year program were assigned randomly in a Virtual Patient (VP) (18) and a Small Group Teaching (SGT)  group (15) which was regarded as a control group. The study was conducted on a voluntary basis, and a written informed consent was obtained prior to the participation with the right to withdraw at any time. Throughout the instructional approaches, the students were unaware of their study group affiliation. Following figure shows the study design for the feedback evaluation.
+
+<p align="center">
+  <img src="https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/Study_design_and_feedback.png" width="200" alt="accessibility text">
+</p>
+
+
+### Study participation
 Prior to the test, a questionnaire was given to get the user characteristics of the students and do a self-assessment. The first aim was to identify each student separately. For that students were assigned random codes. All the students were in the same semester. It was semester 6. Using students from the same semester helped to avoid the bias that may happen due to the technical knowledge difference in a clinical case during the experiment. For the experiment, 21 Female students and 14 Male students participated. Due to technical issues, 2 students’ records can not be used for future investigation. So the usable sample count is 33. None of the students had good exposure to these types of virtual patient systems. The average history-taking rate is 3.486. The average rate of confidence in patient assessment according to the patient’s presentation is 3.429.
 
 ### Outcome measures
 The Objective Structured Clinical Examination (OSCE) is a widely used assessment method in the field of dentistry. Two OSCE exams were held before and after the experiment. The exam was graded from 1 to 100. Then the mean values, standard deviations and p-values were calculated. The table 1 shows the values obtained. In the case initial we decide our null hypothesis as our VP can perform well as the traditional clinical procedure. To prove that it can not be neglected, the p-values were calculated and it is in table 2. According to these statistical values, both the control group and the VP group have performed in a similar manner. Their mean and standard deviation values do not have any significant difference in both pre and post-OSCE. Moreover, p-values are greater than 0.5. This means that the initial hypothesis, that the VP system can perform well as the traditional clinical procedure is not neglectable.
 
 <p align="center">
-  <img src="https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/grade%20result%20tables.png" width="500" alt="accessibility text">
+  <img src="https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/grade_result_tables.png" width="500" alt="accessibility text">
 </p>
+
+### Students feedback review
+
+After the test, two questionnaires were given to get user feedback about the system and user feedback about the overall experience.After the test, these questionnaires were only given to the students who interacted with the Virtual Patient Simulator.
+ 
+Overall, students felt better prepared to diagnose (mean  = 2.78, SD = 2.78 ± 1.166125). Students felt that working on the VP cases is better and enjoyable than learning with real patients (mean  = 2.93, SD = 2.93 ± 1.197377) and found this motivates further self-learning (mean  = 2.81, SD = 2.81 ± 1.46745). The direct feedback that was given within the VP cases was felt to be sufficient (mean  = 3.68, SD = 3.68 ±1.138347). Students also found that case completion develops skills in decision making (mean  = 2.72, SD = 2.72 ± 1.206045). In particular, the detailed structure, the multi-media environment, the individual learning pace and the option to repeatedly work on cases was commended. However, students only partially found that working on the VP cases felt like making real life clinical decisions (mean  = 3.12, SD = 3.12 ±1.078193). As the overall case work up students have given mean of 3.12. 
 
 ## Conclusion
 Virtual patient systems for dentistry are virtual learning platforms that replicate various aspects of real-world dental practice. These systems can be used to train dental students, assess the competency of dental professionals, and provide patients with a realistic preview of dental procedures. This study shows how successful the development of our virtual patient simulator. The system evaluation was done in a controlled environment.
