@@ -165,6 +165,44 @@ Virtual reality training simulator (VRTS) in tooth preparation practice is a hap
 headset and a haptic controller. It is used for training the tooth preparation procedures. Mainly the system uses 3D medical images. The images such as oral scan, computer tomography(CT) are transfered to 3D images. Also maxillofacial and standard oral 3D models are implemented within the system.
 
 ## Methodology
+.After a successful login a student is given the chance for the case selection from the given cases.The design principles contained the relevanceness to the case, an adequate level of difficulty for the student, possessing a high level of interactivity and providing detailed feedback tailored to the individual. Here the main focus was given for making optimal use of media, highlighting on relevant learning points and offering recapitulation. In addition, each VP scenario presented an authentic web interface and included the questions and clarifications customized to the process of clinical reasoning.
+
+Each case contained a 3D graphic of the intraoral view representing the defects providing the zoom in zoom out and 360 degree rotation. Furthermore, they consisted of numerous elements including drop-down-menus, multiple choice selections, text boxes etc  helping to create an efficient learning environment including multimedia. The construction of the cases followed a linear and non-dichotomous approach, but  the students could freely navigate back to previous case slides to look up relevant findings within the cases. In order to compensate for the absence of in-person guidance from a supervised physician at the clinic, the diagnostics and treatment options were provided in additional text-boxes (glossary), and multiple-choice questions were used. Correct answers were rewarded with positive marks while wrong answers led to negative marks followed by constructive feedback and detailed explanations regarding the various choices.
+
+
+1. History Taking
+
+This phase mainly includes obtaining the patient’s history by allowing the students to ask questions from the VP regarding the selected case. A student was provided with a list of sections as History of the presenting complaint, Medical history, Habits, Plaque control, Dietary history, Previous dental treatments and Social history. A drop-down menu and once a section was selected the relevant questions were displayed on another drop-down menu. Once a question was chosen, the VP displayed the answers following the selected question. 
+
+Here the marks were allocated for choosing the correct order of selecting the sections to ask the questions from the patient. The wrong orders were given negative marks. In addition, the questions in each section included both relevant and irrelevant questions to the selected case and selecting only the relevant questions were given positive marks while the choosing of irrelevant questions carried negative marks.
+
+2. Examination
+
+Examination phase allowed the students to examine the patient using the intra oral view, extra oral view. The extra oral section described the physical appearance while the intra oral section consisted with the Intra Oral view, Periodic Screening, Soft Tissue Assessment, Hard Tissue Assessment and Gingival Assessment. The intraoral view was provided as a 3D model representing the defects of the teeth of the patient providing the zoom in zoom out and 360 degree rotation features so that the student can examine the tooth in a preferred scale and angles.
+
+2.1 3D modeling
+3D modeling implementation for the intra oral view representation was first considered using game engines and the research was done to identify the most suitable approach for the web interface.
+The 3D model was created using Blender with all the relevant features which should be included in a teeth set of different kinds of teeth, gum, tongue etc. According to a case restorations, cavities and discolorations were created in the 3d model using Blender features. A mirror tool was also created using Blender which is needed to get a better view of the front teeth set. 
+Other than that, Unity was used for further implementation of the 3D model. Implementation of zoom in and zoom out features were done using Unity. But due to few resolution issues,  further implementation of the 3d model was carried away using Blender.  However for the zoom in and out feature implementations, React three.js library was also used.
+
+The evaluations in the examination phase were done in Soft Tissue Assessment and Hard Tissue Assessment according to the answers provided by the student in the relevant assessment regarding the patient examination. The questions included tool selections, caries status and restorations status and plaque scores and bleeding scores calculation using the given charts.
+
+3. Investigation
+
+This phase provided the students with various types of sources to investigate the patient. They included Radiograph, Haematological assessments and Sensibility recordings. Here the radiographs contained the types of Dental Panoramic Tomogram (DPT), intraoral periapical(IOPA), Bitewing and Cone-beam computed tomography (CBCT). Students could choose any given category and do their investigations accordingly.
+
+4. Evaluation and Feedback
+
+Evaluation of the student was carried out using the criteria of Students’ individual behavior. The system evaluates the ability to choose adequate history questions, examination behavior including tools selection, identifying caries status and restorations status and calculating plaque scores and bleeding scores,  investigation method selection and Providing the correct answers for the questionnaire for diagnosis. In the investigation phase,  the student has to choose the correct lab tests and types of radiographs. Incorrect selections lead to negative marks This gives a sense of a real scenario since in a real scenario, students should not take unwanted investigation methods.  Other than that, weight-based marking criteria were also used in the evaluation.
+
+This system contains a real-time feedback system. It gives detailed feedback on the student's behavior with suggestions and comments so that students can do self-assessments and improve their skills.
+ 
+
+	
+Testing evaluation with students
+Thirty three third year dentistry  students in a four-year program were assigned randomly in a VP (18) and a Small Group Teaching (SGT)  group (15) which was regarded as a control group. The study was conducted on a voluntary basis, and a written informed consent was obtained prior to the participation with the right to withdraw at any time. Throughout the instructional approaches, the students were unaware of their study group affiliation. Basic information as age, sex and study duration were gathered via a questionnaire. Below figure shows the study design for the feedback evaluation. 
+
+
 
 ## Experiment Setup and Implementation
 
