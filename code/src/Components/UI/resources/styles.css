@@ -1,0 +1,53 @@
+.app1 {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: black;
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    flex-direction: column;
+    gap: 30px;
+    height: 45vh;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+  .title {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  .list-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 20px;
+  }
+  .checked-item,
+  .not-checked-item {
+    margin-left: 10px;
+  }
+  .checked-item {
+    text-decoration: line-through;
+  }
+
+  .HAtable1{
+    padding-left: 30px;
+    max-width: 670px;
+    padding-top: 20px;
+    font-size: 20px;
+  }
+  .HAtopic1{
+    padding-left: 300px;
+    padding-top: 20px;
+    font-size: 20px;
+    color: black;
+  }
+  .HAtopic2{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 20px;
+  }
+  .HAsec1{
+    padding-left: 300px;
+    max-width: 1000px;
+    padding-top: 20px;
+    font-size: 20px;
+  }

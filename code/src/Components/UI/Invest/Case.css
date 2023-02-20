@@ -1,0 +1,212 @@
+.contOne{
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 520px;
+}
+.contTwo{
+    padding-top: 50px;
+    align-items: center;
+    
+}
+.contThr{
+    padding-top: 20px;
+    align-items: center;
+    padding-left: 30px;
+}
+
+.contFr{
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 100px;
+    padding-left: 100px;
+}
+.sect{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+    padding-top: 5px;
+    
+}
+
+.caseBtn{
+    padding-top: 25px;
+}
+
+.back{
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(26, 91, 189);
+    border-color: blue;
+}
+
+.backbtn{
+    padding-left: 30px;
+}
+
+.exambtn{
+    padding-right: 10px;
+    padding-left: 900px;
+    padding-top: 100px;
+}
+
+.exmchip{
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgb(26, 91, 189);
+    border-color: blue;
+}
+
+.Examsect{
+    padding-top: 100px;
+    padding-left: 350px;
+}
+
+.exmTopic{
+  padding-left: 500px;
+  padding-top: 10px;
+  font-size: 50px;
+  font-weight: bold;
+  color: black;
+}
+.record{
+    padding-top: 0px;
+    font-size: 40px;
+}
+
+.submttd{
+  padding-left: 580px;
+  font-size: 20px;
+  font-weight: bold;
+  color: crimson;
+}
+
+.btnGrp{
+    background-color: brown;
+    fill: aqua;
+}
+
+.nextInExam{
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(26, 91, 189);
+    border-color: blue;
+}
+
+.status{
+    padding-right: 0px;
+    padding-left: -1000px;
+    padding-top: 0px;
+}
+
+.contsix{
+    padding-top: 10px;
+    align-items: left;
+    padding-left: 10px;
+    padding-right: 100px;
+}
+
+.grid-container {
+    display: grid;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container2 {
+    display: grid;
+    gap: 0px;
+    background-color: #e1e5e9;
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+  }
+  
+  .item1 {
+    grid-column: 1 / span 2;
+    grid-row: 1;
+  }
+  
+  .item2 {
+    grid-column: 3;
+    grid-row: 1 / span 2;
+  }
+ 
+  .setExtra{
+    padding-right: 100px;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .setExtra2{
+    padding-right: 100px;
+    padding-left: 30px;
+    padding-top: 5px;
+  }
+
+
+  .instraction{
+    padding-right: 30%;
+    padding-left: 100px;
+    padding-top: 0%;
+  }
+
+  .title2{
+        font-size: 25px;
+        padding-left: 100px;
+        padding-bottom: 0;
+        color: rgb(194, 122, 34);
+        padding-top: 20px;
+        padding-right: 30%;
+        font:bold;
+  }
+  .fontForlist{
+    font-size: 15px;
+    color: rgb(102, 52, 26);
+    font:bold
+  }
+  .fontForlist2{
+    font-size: 20px;
+    color: rgb(102, 52, 26);
+    font:bold;
+    text-align: left;
+  }
+
+  .insgrid{
+    padding-top: 3%;
+    padding-left: 20px;
+  }
+
+
+  .invGif2{
+    padding-top: 20px;
+    padding-left: 30%;
+    width: 65%;
+    height: 65%;
+  }
+  .title3{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-bottom: 0;
+    color: rgb(151, 95, 27);
+    padding-right: 20%;
+    font-weight: bold;
+    padding-top: 0px;
+}

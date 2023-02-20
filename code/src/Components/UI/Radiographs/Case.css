@@ -1,0 +1,151 @@
+.case{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.casedes{
+    text-align: center;
+    font-size: 20px;
+}
+.card{
+    padding-top: 10px;
+}
+
+.cards{
+    padding-top: 250px;
+    text-align: center;
+    align-self: center;
+    padding-left: 100px;
+    max-width: '50rem';
+}
+.cardsd{
+    padding-top: 10px;
+    text-align: center;
+    align-self: center;
+    padding-left: 90px;
+    max-width: '100rem';
+    height: '1000px';
+}
+
+.cardDesc{
+    padding-top: 150px;
+    text-align: center;
+    align-self: center;
+    padding-left: 100px;
+    max-width: '50rem';
+}
+.dropdown{
+    padding-top: 10px;
+    text-align: center;
+    padding-right: 100px;
+}
+
+.ddown{
+    height: 200px;
+    padding-top: 0px;
+}
+.NextChip{
+    padding-right: 10px;
+    padding-left: 900px;
+}
+
+.chips{
+    height: 50px;
+    font-size: 20px;
+    color: blue;
+    width: 400px;
+    border-radius: 50px;
+    fill: blue;
+}
+
+.qna{
+    max-width: 200rem;
+    padding-right: 0px;
+    padding-top: 150px;
+}
+
+.middletext{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.sect{
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+    font-weight: bold;
+    padding-top: 5px;
+    
+}
+
+.caseBtn{
+    padding-top: 25px;
+}
+
+.contPic{
+    
+    padding-left: 27%;
+    padding-top: 10px;
+    padding-top: 50px;
+}
+.contPics{
+    
+    padding-left: 43%;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.contOnes{
+    /* padding-top: 80px; */
+    padding-top: 2px;
+    align-items: center;
+    padding-left: 35%;
+}
+
+.contThr{
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 30px;
+    color: rgb(221, 233, 53);
+}
+.contThr1{
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 30px;
+    color: rgb(15, 15, 14);
+}
+.record1{
+    color: rgb(13, 14, 0);
+    text-align: center;
+    align-items:'center';
+}
+
+.back1{
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    font-weight : bold;
+    color: rgb(15, 15, 15);
+    width: 100px;
+    border-radius: 50px;
+    border-width: 4px;
+    background-color: rgb(221, 233, 53);
+    border-color: rgb(221, 233, 53);
+}
+
+.radtopic{
+    padding-left: 540px;
+    font-size: 50px;
+    font-weight: bold;
+    color: darkblue;
+    padding-bottom: 0px;
+}
+
+.radmainqs{
+    padding-top: 30px;
+    font-size: 25px;
+    padding-left: 150px;
+    padding-bottom: 30px;
+}

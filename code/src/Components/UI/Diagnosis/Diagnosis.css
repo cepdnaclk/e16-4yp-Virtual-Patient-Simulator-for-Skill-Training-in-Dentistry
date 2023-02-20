@@ -1,0 +1,33 @@
+.midCard{
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.dgtopic1{
+    padding-left: 550px;
+    padding-top: 20px;
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(8, 8, 14)
+}
+
+.dgContent{
+    padding-left: 100px;
+    padding-bottom: 100px;
+    padding-top: 40px;
+}
+
+.dglabel1{
+    padding-left: 450px;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.dgsubmit{
+   padding-left: 620px;
+   padding-top: 20px;
+}
+.dgsubmit2{
+   padding-left: 540px;
+   padding-top: 20px;
+}

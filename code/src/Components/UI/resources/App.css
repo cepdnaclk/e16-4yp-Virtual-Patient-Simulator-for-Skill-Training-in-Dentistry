@@ -1,0 +1,77 @@
+.canvas{
+  height: 100px;
+  width: 80px;
+}
+.Dental_Sheet {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    padding-top: 90px;
+    padding-bottom: 40px;
+  }
+
+.title{
+  font-weight: bold;
+  padding-left: 10px;
+}
+.title1{
+  font-size: 30px;
+  padding-left: 30px;
+  padding-bottom: 0;
+  color: rgb(24, 9, 92);
+  padding-top: 20px;
+  
+}
+
+.invest{
+  font-size: 30px;
+  padding-left: 470px;
+  padding-bottom: 0;
+  color:rgb(24, 9, 92);
+  padding-top: 20px;
+  
+}
+
+.listcont{
+  color: brown;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-top: 0%;
+}
+
+.instr{
+  font-size: 20px;
+  color: aliceblue;
+  margin-top: 0%;
+  padding-left: 30px;
+}
+
+.checkboxclass{
+  padding-top:5%
+}
+
+.title2{
+  font-size: 25px;
+  padding-left: 100px;
+  padding-bottom: 0;
+  color: rgb(194, 122, 34);
+  padding-top: 20px;
+  padding-right: 30%;
+  font:bold;
+}
+.fontForlist{
+font-size: 15px;
+color: rgb(102, 52, 26);
+font:bold
+}
+
+.intitle1{
+  font-size: 25px;
+  padding-left: 300px;
+  padding-bottom: 0;
+  color: rgb(194, 122, 34);
+  padding-top: 20px;
+  padding-right: 30%;
+  font:bold;
+}

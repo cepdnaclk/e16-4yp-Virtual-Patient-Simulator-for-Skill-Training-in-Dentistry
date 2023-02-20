@@ -1,0 +1,39 @@
+.fdtopic1{
+    padding-left: 450px;
+    padding-top: 20px;
+    font-size: 45px;
+    font-weight: bold;
+    color: rgb(8, 8, 14)
+}
+
+.fdtopic2{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+    color: rgb(14, 63, 224)
+}
+
+.fdmain{
+    font-weight: bold;
+    padding-right: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.fdcard{
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.fdtable1{
+    padding-left: 300px;
+    max-width: 800px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.fdtable2{
+    padding-left: 200px;
+    max-width: 1000px;
+    padding-top: 20px;
+    font-size: 20px;
+}
