@@ -146,6 +146,9 @@ Prior to the test, a questionnaire was given to get the user characteristics of 
 ### Outcome measures
 The Objective Structured Clinical Examination (OSCE) is a widely used assessment method in the field of dentistry. Two OSCE exams were held before and after the experiment. The exam was graded from 1 to 100. Then the mean values, standard deviations and p-values were calculated. The table 1 shows the values obtained. In the case initial we decide our null hypothesis as our VP can perform well as the traditional clinical procedure. To prove that it can not be neglected, the p-values were calculated and it is in table 2. According to these statistical values, both the control group and the VP group have performed in a similar manner. Their mean and standard deviation values do not have any significant difference in both pre and post-OSCE. Moreover, p-values are greater than 0.5. This means that the initial hypothesis, that the VP system can perform well as the traditional clinical procedure is not neglectable.
 
+<p align="center">
+  <img src="https://github.com/cepdnaclk/e16-4yp-Virtual-Patient-Simulator-for-Skill-Training-in-Dentistry/blob/main/docs/images/grade%20result%20tables.png" width="500" alt="accessibility text">
+</p>
 
 ## Conclusion
 Virtual patient systems for dentistry are virtual learning platforms that replicate various aspects of real-world dental practice. These systems can be used to train dental students, assess the competency of dental professionals, and provide patients with a realistic preview of dental procedures. This study shows how successful the development of our virtual patient simulator. The system evaluation was done in a controlled environment.
