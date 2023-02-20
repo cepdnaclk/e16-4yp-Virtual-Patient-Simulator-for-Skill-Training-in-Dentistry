@@ -168,12 +168,12 @@ headset and a haptic controller. It is used for training the tooth preparation p
 
 The virtual patient web interface was designed including the main three phases of patient assessment in dentistry (History taking, Examination and Investigation, Diagnosis), so that it equals a main theoretical topic of the practical skills training in terms of content and learning objectives. Two completed VP cases were created following the above phases in order according to the design principles for VP cases. The figure shows the architecture of the designed system.
 
-![system_architecture](./images/system_architecture.png)
+![system_architecture](./images/system_architceture.png)
 
 After a successful login, a student is given the chance for the case selection from the given cases. Here each VP scenario presented an authentic web interface and included the questions and clarifications customized to the process of clinical reasoning. In addition, each case contained a 3D graphic of the intraoral view representing the defects providing the zoom in zoom out and 360 degree rotation. Furthermore, they consisted of numerous elements including drop-down-menus, multiple choice selections, text boxes etc  helping to create an efficient learning environment including multimedia. The construction of the cases followed a linear and non-dichotomous approach, but  the students could freely navigate back to previous case slides to look up relevant findings within the cases. In order to compensate for the absence of in-person guidance from a supervised physician at the clinic, the diagnostics and treatment options were provided in additional text-boxes (glossary), and multiple-choice questions were used. Correct answers were rewarded with positive marks while wrong answers led to negative marks followed by constructive feedback and detailed explanations regarding the various choices.
 
 
-##### 1. History Taking
+##### 1. **History Taking**
 
 This phase mainly includes obtaining the patient’s history by allowing the students to ask questions from the VP regarding the selected case. A student was provided with a list of sections as History of the presenting complaint, Medical history, Habits, Plaque control, Dietary history, Previous dental treatments and Social history. A drop-down menu and once a section was selected the relevant questions were displayed on another drop-down menu. Once a question was chosen, the VP displayed the answers following the selected question. 
 
