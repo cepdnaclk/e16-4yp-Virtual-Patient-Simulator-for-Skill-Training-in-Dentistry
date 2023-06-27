@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 7e6bdc5eb46edad41a0f37e415a9920d
+timeCreated: 1492951925
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: dental_m_1
+    100002: dental_m_2
+    100004: dental_m_b1
+    100006: dental_m_b2
+    100008: dental_m_b3
+    100010: dental_m_b4
+    100012: dental_m_b5
+    100014: dental_m_panel
+    100016: //RootNode
+    100018: dental_machine.002
+    100020: dental_machine_body
+    100022: dental_machine_lamp
+    100024: dental_machine_mount_2
+    100026: dental_machine_pole
+    100028: dental_machine_pole_2
+    100030: dental_machine_tv
+    100032: dental_machine_mount
+    400000: dental_m_1
+    400002: dental_m_2
+    400004: dental_m_b1
+    400006: dental_m_b2
+    400008: dental_m_b3
+    400010: dental_m_b4
+    400012: dental_m_b5
+    400014: dental_m_panel
+    400016: //RootNode
+    400018: dental_machine.002
+    400020: dental_machine_body
+    400022: dental_machine_lamp
+    400024: dental_machine_mount_2
+    400026: dental_machine_pole
+    400028: dental_machine_pole_2
+    400030: dental_machine_tv
+    400032: dental_machine_mount
+    2300000: dental_m_1
+    2300002: dental_m_2
+    2300004: dental_m_b1
+    2300006: dental_m_b2
+    2300008: dental_m_b3
+    2300010: dental_m_b4
+    2300012: dental_m_b5
+    2300014: dental_m_panel
+    2300016: //RootNode
+    2300018: dental_machine.002
+    2300020: dental_machine_body
+    2300022: dental_machine_lamp
+    2300024: dental_machine_mount_2
+    2300026: dental_machine_pole
+    2300028: dental_machine_pole_2
+    2300030: dental_machine_tv
+    2300032: dental_machine_mount
+    3300000: dental_m_1
+    3300002: dental_m_2
+    3300004: dental_m_b1
+    3300006: dental_m_b2
+    3300008: dental_m_b3
+    3300010: dental_m_b4
+    3300012: dental_m_b5
+    3300014: dental_m_panel
+    3300016: //RootNode
+    3300018: dental_machine.002
+    3300020: dental_machine_body
+    3300022: dental_machine_lamp
+    3300024: dental_machine_mount_2
+    3300026: dental_machine_pole
+    3300028: dental_machine_pole_2
+    3300030: dental_machine_tv
+    3300032: dental_machine_mount
+    4300000: dental_machine_mount
+    4300002: dental_machine_mount_2
+    4300004: dental_machine_body
+    4300006: dental_machine_pole
+    4300008: dental_machine_pole_2
+    4300010: dental_machine_lamp
+    4300012: dental_machine.002
+    4300014: dental_machine_tv
+    4300016: dental_m_1
+    4300018: dental_m_2
+    4300020: dental_m_panel
+    4300022: dental_m_b5
+    4300024: dental_m_b4
+    4300026: dental_m_b3
+    4300028: dental_m_b2
+    4300030: dental_m_b1
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
